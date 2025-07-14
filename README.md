@@ -1,2 +1,2 @@
 # Structural_8Bit_Alu_and_N-Bit_Data_Register
-This repo contains two structural models written in VHDL; an 8-bit ALU and an n-bit data register. The 8-bit ALU performs four functions: add, subtract, AND, and invert, It uses a behavioral model of a 1-bit ALU instantiated eight times. The n-bit data register uses an edge triggered flip flop. 
+This repo contains two structural models written in VHDL; an 8-bit ALU and an n-bit data register. The 8-bit ALU performs four functions: add, subtract, AND, and invert, It uses a behavioral model of a 1-bit ALU instantiated eight times. The n-bit data register uses an edge triggered flip flop. The behavioral models, testbenches, and report are also included. 
